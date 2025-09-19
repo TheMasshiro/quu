@@ -1,6 +1,6 @@
-# YOUR PROJECT TITLE
+# QUU – Your tasks, in order.
 
-#### Video Demo: <URL HERE>
+#### Video Demo: None Yet
 
 #### Description:
 
