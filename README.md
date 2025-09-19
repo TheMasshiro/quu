@@ -1,4 +1,4 @@
-# QUU – Your tasks, in order.
+# QUU – Your tasks, in order
 
 #### Video Demo: None Yet
 
